@@ -5,9 +5,9 @@
 > $\int x^ndx = {1 \above{1pt} n+1}x^{n+1}+C$
 
 정적분 : $\int f(x)dx = F(x)+C \rightarrow \int_a^b f(x)dx = F(b)-F(a)$
-> $\lim\limits_{n \rightarrow \infin} \displaystyle\sum_{k=1}^n f(x_k){b-a \above{1pt} n} = F(b)-F(a)$
+> $\lim\limits_{n \rightarrow \infty} \displaystyle\sum_{k=1}^n f(x_k){b-a \above{1pt} n} = F(b)-F(a)$
 
-> $\therefore \int f(x)dx = \lim\limits_{n \rightarrow \infin} \displaystyle\sum_{k=1}^n f(x_k){b-a \above{1pt} n}$
+> $\therefore \int f(x)dx = \lim\limits_{n \rightarrow \infty} \displaystyle\sum_{k=1}^n f(x_k){b-a \above{1pt} n}$
 
 >> $(x_k = a+k{b-a \above{1pt}n})$
 
